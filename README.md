@@ -1,1 +1,2 @@
 # linked-list
+A simple linked-list project in javascript. Utilized class constructors to create the Node and LinkedList objects. This project enable me to understand the data structures and algorithms, especially the dynamic data structure like linked list. 
